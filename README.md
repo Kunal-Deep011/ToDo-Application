@@ -14,7 +14,7 @@ Screenshots-
 
 ![ipad-view](https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/b78ad8d1-05b8-477c-a841-01db7b400efc)
 
-![Mobile-view](https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/938a2f08-977a-448d-8734-9ff1fd44ea39)
+![Mobile-View (2)](https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/84522184-a4b0-46b6-87b3-db5fc7e5501c)
 
 ![After-TaskList Added Laptop-View](https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/d3fb6ddb-f3ea-43dc-900c-88ee31ef3bdf)
 
