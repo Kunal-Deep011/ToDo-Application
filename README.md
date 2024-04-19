@@ -30,9 +30,13 @@ iii) Delete Task: Each task has a delete button that, when clicked, removes the 
 
 #Technologies Used -
 ReactJS: A JavaScript library for building user interfaces.
+
 Redux: A predictable state container for JavaScript apps.
+
 HTML: Markup language for structuring the application's layout.
+
 CSS: Styling language for designing the application.
+
 JavaScript: Programming language for implementing application logic.
 
 #Project Structure -
