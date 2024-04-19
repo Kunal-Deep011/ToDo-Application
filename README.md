@@ -20,7 +20,7 @@ Screenshots-
 ![After-TaskList Added Laptop-View](https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/d3fb6ddb-f3ea-43dc-900c-88ee31ef3bdf)
 
 
-#Features :
+#Features -
 
 i) Add Task: Users can input a task into a text field and add it to the list by pressing a button or pressing Enter.  
 
@@ -28,14 +28,14 @@ ii) View Tasks: All added tasks are displayed in a list format.
 
 iii) Delete Task: Each task has a delete button that, when clicked, removes the task from the list.  
 
-#Technologies Used :
+#Technologies Used -
 ReactJS: A JavaScript library for building user interfaces.
 Redux: A predictable state container for JavaScript apps.
 HTML: Markup language for structuring the application's layout.
 CSS: Styling language for designing the application.
 JavaScript: Programming language for implementing application logic.
 
-#Project Structure :
+#Project Structure -
 
 The project structure is organized as follows:
 
