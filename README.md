@@ -1,8 +1,23 @@
-React Redux To-Do Application 
+To-Do Application 
 
 #Description : 
 
 This is a simple To-Do application built using ReactJS with Redux for state management. It allows users to add tasks, view tasks, and delete tasks.
+
+Deploy Link - https://simple-todo-application0001.netlify.app/
+
+Demo Video -
+
+Screenshots-
+
+![Laptop-View](https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/f11311ae-b18f-4fa6-b9e3-6b360ba58e62)
+
+![ipad-view](https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/b78ad8d1-05b8-477c-a841-01db7b400efc)
+
+![Mobile-view](https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/938a2f08-977a-448d-8734-9ff1fd44ea39)
+
+![After-TaskList Added Laptop-View](https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/d3fb6ddb-f3ea-43dc-900c-88ee31ef3bdf)
+
 
 #Features :
 
