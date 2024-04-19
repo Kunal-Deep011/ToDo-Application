@@ -37,10 +37,10 @@ JavaScript: Programming language for implementing application logic.
 
 The project structure is organized as follows:
 
-src: Contains the source code of the application.
-components: Contains React components for TaskInput and TaskList.
-actions: Contains Redux action creators.
-reducers: Contains Redux reducers.
-store: Contains Redux store configuration.
-App.js: Main component integrating all other components.
-public: Contains public assets like index.html.
+1) "src" : Contains the source code of the application.
+2) "components" : Contains React components for TaskInput and TaskList.
+3) "actions" : Contains Redux action creators.
+4) "reducers" : Contains Redux reducers.
+5) "store" : Contains Redux store configuration.
+6) "App.js" : Main component integrating all other components.
+7) "public" : Contains public assets like index.html.
