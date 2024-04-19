@@ -18,6 +18,7 @@ CSS: Styling language for designing the application.
 JavaScript: Programming language for implementing application logic.
 
 #Project Structure :
+
 The project structure is organized as follows:
 
 src: Contains the source code of the application.
