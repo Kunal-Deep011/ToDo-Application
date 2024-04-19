@@ -29,15 +29,16 @@ ii) View Tasks: All added tasks are displayed in a list format.
 iii) Delete Task: Each task has a delete button that, when clicked, removes the task from the list.  
 
 #Technologies Used -
-ReactJS: A JavaScript library for building user interfaces.
 
-Redux: A predictable state container for JavaScript apps.
+i) ReactJS: A JavaScript library for building user interfaces.
 
-HTML: Markup language for structuring the application's layout.
+ii) Redux: A predictable state container for JavaScript apps.
 
-CSS: Styling language for designing the application.
+iii) HTML: Markup language for structuring the application's layout.
 
-JavaScript: Programming language for implementing application logic.
+iv) CSS: Styling language for designing the application.
+
+v) JavaScript: Programming language for implementing application logic.
 
 #Project Structure -
 
