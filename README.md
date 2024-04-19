@@ -6,7 +6,8 @@ This is a simple To-Do application built using ReactJS with Redux for state mana
 
 Deploy Link - https://simple-todo-application0001.netlify.app/
 
-Demo Video -
+Demo Video - 
+https://github.com/Kunal-Deep011/ToDo-Application/assets/117732649/fcc8ba32-f7cc-4aac-84d5-d6db86c49a51
 
 Screenshots-
 
